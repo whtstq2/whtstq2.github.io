@@ -3,7 +3,7 @@ description: It's a blog with a bunch of ML stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
